@@ -1,7 +1,7 @@
 #!/bin/sh
 
 if [ "$#" -ne 2 ]; then
-	echo "Usage: $0 <filesdir> <searchstringi>"
+	echo "Usage: $0 <filesdir> <searchstr>"
 	exit 1
 fi
 
